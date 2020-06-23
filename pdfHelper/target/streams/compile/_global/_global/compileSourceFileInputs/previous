@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.2":{"hashes":[["/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala","e217782f9d7d84b958ea76ad2db0c27a248111e7"]],"lastModifiedTimes":[]}}]

@@ -1,0 +1,18 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [trait / Compile / run] Found inputs: /home/vlad/progs/scala/trait/*.{java,scala},/home/vlad/progs/scala/trait/src/main/java/**/*.{java,scala},/home/vlad/progs/scala/trait/src/main/resources/**/*,/home/vlad/progs/scala/trait/src/main/scala/**/*.{java,scala},/home/vlad/progs/scala/trait/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for trait/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mtrait / Compile / run - Accepted event for /home/vlad/progs/scala/trait/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/trait/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/trait/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mtrait / Compile / run - Accepted event for /home/vlad/progs/scala/trait/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/trait/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/trait/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/trait/src/main/scala/Main.scala (previous stamp: Hash(06c13fb2dd7e64b583ab17b0330124ca5ccdd030), current stamp: Hash(ad16a5eeb1e0bce7c1611751130ce2d6134b9104))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/trait/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/trait/src/main/scala/Main.scala, 2020-Jun-21 10:14:05.918 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/trait/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/trait/src/main/scala/Main.scala, 2020-Jun-21 10:14:05.918 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for trait/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/trait/src/main/scala/Main.scala. This event occurred 27 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m

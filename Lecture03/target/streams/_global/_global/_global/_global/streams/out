@@ -1,0 +1,244 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [lecture03 / Compile / run] Found inputs: /home/vlad/progs/scala/course/Lecture03/*.{java,scala},/home/vlad/progs/scala/course/Lecture03/src/main/java/**/*.{java,scala},/home/vlad/progs/scala/course/Lecture03/src/main/resources/**/*,/home/vlad/progs/scala/course/Lecture03/src/main/scala/**/*.{java,scala},/home/vlad/progs/scala/course/Lecture03/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(ab92fec20c16e22abeb6aadeb75ec5fb2ae7c554), current stamp: Hash(4e10a11485c216b16a291be93f91a9cb1e83b179))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:33:05.781 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:33:05.781 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(4e10a11485c216b16a291be93f91a9cb1e83b179), current stamp: Hash(2b7672a8c706ab71ca36ffea7db051005c561ca3))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:33:16.278 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:33:16.278 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 2 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(2b7672a8c706ab71ca36ffea7db051005c561ca3), current stamp: Hash(d2c8e001dbe70f53b5f5b2372e24374097fd3634))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:33:51.244 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:33:51.244 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m4. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 2 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(d2c8e001dbe70f53b5f5b2372e24374097fd3634), current stamp: Hash(3f84ad71e77db6bfc92a979cdeb38e38e1297fb1))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:35:25.570 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:35:25.570 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m5. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(3f84ad71e77db6bfc92a979cdeb38e38e1297fb1), current stamp: Hash(f1652eb64ffe9d594b3dd052d64fbe252a2525cc))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:35:57.106 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:35:57.106 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m6. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 0 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(f1652eb64ffe9d594b3dd052d64fbe252a2525cc), current stamp: Hash(9b14a30ffe8d914bc1d1cdce6c2bcc2a8aa82e39))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:36:37.201 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:36:37.201 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m7. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(9b14a30ffe8d914bc1d1cdce6c2bcc2a8aa82e39), current stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:36:42.938 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:36:42.938 MT).[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m8. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 15 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709), current stamp: Hash(158077dc9b9d8ee438d395f7423e0a355eb2ced6))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:36:59.436 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:36:59.436 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m9. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 2 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(158077dc9b9d8ee438d395f7423e0a355eb2ced6), current stamp: Hash(ade5c2a30459822ae1d4a96d6f8f810619affe90))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:37:19.955 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:37:19.955 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m10. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(ade5c2a30459822ae1d4a96d6f8f810619affe90), current stamp: Hash(68dbf7f85cc9c0250729090346c2b88a622fd569))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:37:35.112 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:37:35.112 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m11. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(68dbf7f85cc9c0250729090346c2b88a622fd569), current stamp: Hash(6131a62c22b245382bd6630c53015a87aa71fdfd))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:37:42.044 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:37:42.044 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m12. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(6131a62c22b245382bd6630c53015a87aa71fdfd), current stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:39:01.328 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:39:01.328 MT).[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m13. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 8 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709), current stamp: Hash(b57b60c75b6cee441671d2bb8cd86e51bfdfcaee))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:39:25.597 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:39:25.597 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m14. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 0 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(b57b60c75b6cee441671d2bb8cd86e51bfdfcaee), current stamp: Hash(a9b137173d678324fac1bdce4304420fb840fff5))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:51:22.938 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:51:22.938 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m15. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(a9b137173d678324fac1bdce4304420fb840fff5), current stamp: Hash(a16800d9579a0582ba66e35f0a12b8a774372d0c))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:51:39.500 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:51:39.500 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m16. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 2 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(a16800d9579a0582ba66e35f0a12b8a774372d0c), current stamp: Hash(a10b29aecdfc0af34b95bb691bcfc712c94a7c1e))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:56:08.190 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:56:08.190 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m17. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(a10b29aecdfc0af34b95bb691bcfc712c94a7c1e), current stamp: Hash(aa36fe1b09d873d8bd6c4427370ae0eec1d9d2c5))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:56:20.763 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:56:20.763 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m18. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 2 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(aa36fe1b09d873d8bd6c4427370ae0eec1d9d2c5), current stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:56:37.814 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:56:37.814 MT).[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m19. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 15 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala (previous stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709), current stamp: Hash(50b517b4803d1e9551a4c05c06624233d9a67de9))[0m
+[0m[[0m[0mdebug[0m] [0m[0mlecture03 / Compile / run - Accepted event for /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:56:43.001 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala, 2020-Jun-16 18:56:43.001 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m20. Monitoring source files for lecture03/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/course/Lecture03/src/main/scala/Main.scala. This event occurred 2 ms since the last event for this path.[0m

@@ -1,0 +1,119 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [creditcardgenval / Compile / compile] Found inputs: /home/vlad/progs/scala/CreditCardGenVal/*.{java,scala},/home/vlad/progs/scala/CreditCardGenVal/src/main/java/**/*.{java,scala},/home/vlad/progs/scala/CreditCardGenVal/src/main/resources/**/*,/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/**/*.{java,scala},/home/vlad/progs/scala/CreditCardGenVal/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for creditcardgenval/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Creation(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala -> Trigger. Returning: (Creation(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala, 2020-Jun-21 10:23:45.868 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Creation(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala, 2020-Jun-21 10:23:45.868 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for creditcardgenval/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDropping event for unmodified path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala. This event occurred 6 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDropping event for unmodified path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala. This event occurred 9 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala (previous stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709), current stamp: Hash(af0e6e879b1d775215bc7875064540d5867c9f3a))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala, 2020-Jun-21 10:27:43.736 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala, 2020-Jun-21 10:27:43.736 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for creditcardgenval/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala (previous stamp: Hash(af0e6e879b1d775215bc7875064540d5867c9f3a), current stamp: Hash(77915b7b7042afc962bc0c66df1fca7158a7cb18))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala, 2020-Jun-21 10:28:01.418 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala, 2020-Jun-21 10:28:01.418 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m4. Monitoring source files for creditcardgenval/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala (previous stamp: Hash(77915b7b7042afc962bc0c66df1fca7158a7cb18), current stamp: Hash(f732154a82ff68d93b2aae02bb379f80771a08da))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala, 2020-Jun-21 10:28:14.135 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala, 2020-Jun-21 10:28:14.135 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m5. Monitoring source files for creditcardgenval/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala. This event occurred 2 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala (previous stamp: Hash(8cc56da6bd427e3eb0dc3cddbe6e204631ab2b50), current stamp: Hash(3fae7d0da4352ca406397a300605b1485a736089))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala, 2020-Jun-21 10:29:24.203 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala, 2020-Jun-21 10:29:24.203 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m6. Monitoring source files for creditcardgenval/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala (previous stamp: Hash(f732154a82ff68d93b2aae02bb379f80771a08da), current stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala, 2020-Jun-21 10:30:21.322 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala, 2020-Jun-21 10:30:21.322 MT).[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m7. Monitoring source files for creditcardgenval/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala. This event occurred 19 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala (previous stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709), current stamp: Hash(0de3b590317c7b5ec012c3b37c2643a980447736))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala, 2020-Jun-21 10:30:43.835 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala, 2020-Jun-21 10:30:43.835 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m8. Monitoring source files for creditcardgenval/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/CreditCard.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala (previous stamp: Hash(3fae7d0da4352ca406397a300605b1485a736089), current stamp: Hash(a146307fbde8c67a7d7d79f654a8188089e134c5))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala, 2020-Jun-21 10:30:55.761 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala. Running 'compile'.[0m
+[0m[[0m[0mdebug[0m] [0m[0mcreditcardgenval / Compile / compile - Accepted event for /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala, 2020-Jun-21 10:30:55.761 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m9. Monitoring source files for creditcardgenval/compile...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/CreditCardGenVal/src/main/scala/Main.scala. This event occurred 3 ms since the last event for this path.[0m

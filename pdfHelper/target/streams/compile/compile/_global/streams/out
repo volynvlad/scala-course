@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala:21:19: recursive value k needs type[0m
+[0m[[0m[31merror[0m] [0m[0m            k = k + 1[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala:22:26: value getName is not a member of Any[0m
+[0m[[0m[31merror[0m] [0m[0m        } yield (k, file.getName().toString().toLowerCase())[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

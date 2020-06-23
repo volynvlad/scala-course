@@ -1,0 +1,10 @@
+compile
+run
+run hello
+;compile;run
+;compile;run vald
+~run
+~sbt
+~run
+:quit
+:quit;

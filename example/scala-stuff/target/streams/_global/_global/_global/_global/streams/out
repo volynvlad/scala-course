@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [scala-stuff / Compile / run] Found inputs: /home/vlad/progs/scala/project/scala-stuff/*.{java,scala},/home/vlad/progs/scala/project/scala-stuff/src/main/java/**/*.{java,scala},/home/vlad/progs/scala/project/scala-stuff/src/main/resources/**/*,/home/vlad/progs/scala/project/scala-stuff/src/main/scala/**/*.{java,scala},/home/vlad/progs/scala/project/scala-stuff/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for scala-stuff/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mscala-stuff / Compile / run - Accepted event for /home/vlad/progs/scala/project/scala-stuff/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/project/scala-stuff/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/project/scala-stuff/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/project/scala-stuff/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/project/scala-stuff/Main.scala (previous stamp: Hash(c1a51359c79f6928d4515dbfa6985affe0fe4950), current stamp: Hash(11c916eb0216c37dbb7202dedd8a0a0558400138))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/project/scala-stuff/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/project/scala-stuff/Main.scala, 2020-Jun-15 20:29:07.697 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0m[2J[0;0H[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/project/scala-stuff/Main.scala, 2020-Jun-15 20:29:07.697 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for scala-stuff/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mscala-stuff / Compile / run - Accepted event for /home/vlad/progs/scala/project/scala-stuff/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/project/scala-stuff/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/project/scala-stuff/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/project/scala-stuff/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/project/scala-stuff/Main.scala (previous stamp: Hash(11c916eb0216c37dbb7202dedd8a0a0558400138), current stamp: Hash(1e6fea00b9b4c8fb447e8b26a6c988d9a76a5fc3))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/project/scala-stuff/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/project/scala-stuff/Main.scala, 2020-Jun-15 20:29:30.640 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0m[2J[0;0H[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/project/scala-stuff/Main.scala, 2020-Jun-15 20:29:30.640 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for scala-stuff/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m

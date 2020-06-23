@@ -1,0 +1,81 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [pdfhelper / Compile / run] Found inputs: /home/vlad/progs/scala/pdfHelper/*.{java,scala},/home/vlad/progs/scala/pdfHelper/src/main/java/**/*.{java,scala},/home/vlad/progs/scala/pdfHelper/src/main/resources/**/*,/home/vlad/progs/scala/pdfHelper/src/main/scala/**/*.{java,scala},/home/vlad/progs/scala/pdfHelper/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for pdfhelper/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mpdfhelper / Compile / run - Accepted event for /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mpdfhelper / Compile / run - Accepted event for /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala (previous stamp: Hash(bfe2ef6ec91ffe09a1a2934475495f1b6e84b92c), current stamp: Hash(9ffb6053005829f5b3ad95a366b2d136bc0678cc))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala, 2020-Jun-18 16:47:42.573 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala, 2020-Jun-18 16:47:42.573 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for pdfhelper/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mpdfhelper / Compile / run - Accepted event for /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mpdfhelper / Compile / run - Accepted event for /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala (previous stamp: Hash(9ffb6053005829f5b3ad95a366b2d136bc0678cc), current stamp: Hash(4bd38f403cec4360b3f91b81a65e1d8a8f27ebab))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala, 2020-Jun-18 16:53:31.624 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala, 2020-Jun-18 16:53:31.624 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for pdfhelper/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala. This event occurred 0 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mpdfhelper / Compile / run - Accepted event for /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mpdfhelper / Compile / run - Accepted event for /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDropping event for unmodified path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mpdfhelper / Compile / run - Accepted event for /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala (previous stamp: Hash(4bd38f403cec4360b3f91b81a65e1d8a8f27ebab), current stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala, 2020-Jun-18 16:53:54.846 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala, 2020-Jun-18 16:53:54.846 MT).[0m
+[0m[[0m[0mdebug[0m] [0m[0mpdfhelper / Compile / run - Accepted event for /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m4. Monitoring source files for pdfhelper/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala. This event occurred 12 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mpdfhelper / Compile / run - Accepted event for /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mpdfhelper / Compile / run - Accepted event for /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala (previous stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709), current stamp: Hash(35ca36f993f99fcffbd975691fffaeb00669c699))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala, 2020-Jun-18 16:54:38.102 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala, 2020-Jun-18 16:54:38.102 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m5. Monitoring source files for pdfhelper/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mpdfhelper / Compile / run - Accepted event for /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mpdfhelper / Compile / run - Accepted event for /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala (previous stamp: Hash(35ca36f993f99fcffbd975691fffaeb00669c699), current stamp: Hash(5dd6b5fa17150357e3d156b3a8c09397aeed3522))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala, 2020-Jun-18 16:54:49.530 MT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala, 2020-Jun-18 16:54:49.530 MT).[0m
+[0m[[0m[0minfo[0m] [0m[0m6. Monitoring source files for pdfhelper/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mpdfhelper / Compile / run - Accepted event for /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDropping event for unmodified path /home/vlad/progs/scala/pdfHelper/src/main/scala/Main.scala[0m
